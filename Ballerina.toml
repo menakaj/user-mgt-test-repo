@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.5"
+  export = ["usermanage1"]
+  name = "usermanage1"
+  org = "menaka"
+
